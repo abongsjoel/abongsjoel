@@ -1,6 +1,6 @@
-### Hi there 👋
+![Welcome](../main/banner.png)
 
-![Welcome](../main/screenshot.png)
+### Hi there 👋
 
 <!--
 **abongsjoel/abongsjoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
