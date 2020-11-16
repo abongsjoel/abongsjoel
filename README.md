@@ -1,4 +1,4 @@
-![Welcome](../main/my-banner.png)
+![Welcome](../main/banner.png)
 
 ### Hi there 👋 Feel free to get in touch with me at any time
 
