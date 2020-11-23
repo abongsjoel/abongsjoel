@@ -1,5 +1,7 @@
 ![Welcome](../main/banner.png)
 
+Now Learning Ruby
+
 ### Hi there 👋 Feel free to get in touch with me at any time
 
 - LinkedIn: [Chi Abongwa Joel](https://www.linkedin.com/in/chi-abongwa-joel-b4285a97/)
