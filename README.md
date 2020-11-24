@@ -1,4 +1,4 @@
-![Welcome](../main/banner.png)
+![Welcome](../main/banner2.png)
 
 Now Learning Ruby
 
