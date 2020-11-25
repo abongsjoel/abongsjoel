@@ -10,7 +10,7 @@
 - Tell: + (237) 670312288
 - Email: abongsjoel@gmail.com
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=abongsjoel&show_icons=true&theme=graywhite)](https://github.com/abongsjoel/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=abongsjoel&show_icons=true)](https://github.com/abongsjoel/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abongsjoel&layout=compact)](https://github.com/abongsjoel/github-readme-stats)
