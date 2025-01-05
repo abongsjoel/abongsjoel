@@ -2,7 +2,7 @@
 
 ### Hi there 👋 Feel free to get in touch with me at any time
 
-- LinkedIn: [Chi Abongwa Joel](https://www.linkedin.com/in/chi-abongwa-joel-b4285a97/)
+- LinkedIn: [Chi Abongwa Joel](https://www.linkedin.com/in/joel-chi-b4285a97/)
 - Twitter: [@thierryjoel10](https://twitter.com/ThierryJoel10)
 - Email: abongsjoel@gmail.com
 
