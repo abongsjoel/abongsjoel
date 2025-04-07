@@ -8,7 +8,6 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=abongsjoel&show_icons=true)](https://github.com/abongsjoel/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abongsjoel&layout=compact)](https://github.com/abongsjoel/github-readme-stats)
 
 <!--
 **abongsjoel/abongsjoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
